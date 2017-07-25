@@ -17,7 +17,7 @@
 <resources>
     <string name="app_name">Topeka</string>
     <string name="last_initial">Last Initial</string>
-    <string name="first_name">First Name</string>
+    <string name="first_name">First Initial</string>
     <string name="sign_in">Sign In</string>
     <string name="choose_avatar">Choose an Avatar</string>
     <string name="an_avatar">An Avatar</string>
